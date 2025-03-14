@@ -70,8 +70,9 @@
 .author-name{
  margin: 0; 
 }
-  .h3:hover{
+  h3:hover{
     color: hsl(47, 88%, 63%);
+    cursor: pointer;
   }
   /* Basic link styles */
   a {
